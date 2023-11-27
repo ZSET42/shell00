@@ -1,1 +1,1 @@
-git ls-files --others --i
+git ls-files --ignored --exclude-standard --others  
