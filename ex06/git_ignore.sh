@@ -1,1 +1,1 @@
-git status --ignored --untracked-files=all
+git ls-files --others --i
